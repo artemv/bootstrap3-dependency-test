@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap3-dependency-test",
+  "main": "src",
+  "description": "Just a dependency test",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com:artemv/bootstrap3-dependency-test.git"
+  },
+  "author": {
+    "name": "Artem Vasiliev",
+    "email": "artem.job@gmail.com",
+    "url": "github.com/artemv"
+  },
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  },
+  "version": "0.0.0-development"
+}
